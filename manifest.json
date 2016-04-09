@@ -11,10 +11,13 @@
   },
 
   "permissions": [
-    "storage"
+    "storage",
+    "audioCapture"
   ],
 
   "content_scripts": [
-  
-  ]
+
+  ],
+
+  "options_page": "options.html"
 }
